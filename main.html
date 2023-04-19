@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Iphone</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+
+    <div class=resultado>
+      <section id="visor">
+        
+     </section>
+    </div>
+
+    <div class="botoes">
+        <ul>
+            <li class="numeros">
+                <button onclick="limpar()" class="clear" id="clearall">AC</button>
+                <button class="clear" onclick="apagar() "id="clear">←</button>
+                <button class="clear" id="porcento" onclick="porcentagem()">%</button>
+                <button class="sinais" onclick="dividir()">÷</button>
+                <button class="number" onclick="mostrar('7')">7</button>
+                <button class="number" onclick="mostrar('8')">8</button>
+                <button class="number" onclick="mostrar('9')">9</button>
+                <button class="sinais" onclick="multiplicar()" >X</button>
+                <button class="number" onclick="mostrar('4')">4</button>
+                <button class="number" onclick="mostrar('5')">5</button>
+                <button class="number" onclick="mostrar('6')">6</button>
+                <button class="sinais" onclick="subtrair()">-</button>
+                <button class="number" onclick="mostrar('1')">1</button>
+                <button class="number" onclick="mostrar('2')">2</button>
+                <button class="number" onclick="mostrar('3')">3</button>
+                <button class="sinais" onclick="soma()">+</button>
+                <button class="number" id="zero" onclick="mostrar('0')">0</button>
+                <button class="number" id="virgula" onclick="mostrar(',')">,</button>
+                <button class="sinais" onclick="calcular()" id="igual">=</button>
+            </li>
+        </ul>
+    </div>
+
+</body>
+</html>
