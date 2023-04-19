@@ -1,8 +1,6 @@
 # Calculadora Iphone
-◉ Calculadora do Iphone feita em CSS para o layout, HTML para marcação dos conteúdos e grid system e JavaScript para a funcionalidade e cálculo.
+◉ Calculadora do Iphone feita em CSS com técnicas de grid system para definição de layout, HTML para marcação de elementos e JavaScript para a execução de operações aritiméticas.
 # Tasklist
-- [x] Calculadora Funcionando
-- [x] Layout Iphone
 - [ ] Efeitos ao clicar e manter nos sinais de operação
 - [ ] Integração de histórico de calculos recentes
 
