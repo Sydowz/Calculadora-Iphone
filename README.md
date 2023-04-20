@@ -4,4 +4,5 @@
 - [ ] Efeitos ao clicar e manter nos sinais de operação
 - [ ] Integração de histórico de calculos recentes
 
-![image](https://user-images.githubusercontent.com/127353837/233201040-74acf077-6137-4a2d-b2c4-ceb858d23d9b.png)
+![Calculadora gif](https://user-images.githubusercontent.com/127353837/233479063-31f57304-1507-4321-806d-eab95e385210.gif)
+
